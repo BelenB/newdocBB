@@ -4,3 +4,10 @@ Direcciones útiles
 Comandos muy resumidos:
 
 http://rogerdudler.github.io/git-guide/index.es.html
+
+Cuando dice que se borra una rama con 
+git branch -d nombrerama
+
+Quiere decir si no hay cambios pendientes, si quieres borrar la rama igualmente, 
+hay que utilizar la D mayúscula
+git branch -D nombrerama
